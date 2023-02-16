@@ -156,6 +156,7 @@
 - [Queen Fawale](https://github.com/Queen-codes)
 - [Abhishek kumar](https://github.com/abhiraj-ku)
 - [Adhish Verma](https://github.com/adhishVerma)
+- [Shaishav Vashi](https://github.com/shaishav007)
 - [Kay Cee](https://github.com/sekaycee)
 - [Pritam Sapkota](https://github.com/pritamsap)
 - [Geronimo Costa Peuser] (https://github.com/GeronimoCostaPeuser)
